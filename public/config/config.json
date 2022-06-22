@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8877917F2c1D7E629078F37C63CB579337eB9b0d",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8877917f2c1d7e629078f37c63cb579337eb9b0d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cubic Rubic",
+  "SYMBOL": "CR",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 1000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cubicrubic",
+  "SHOW_BACKGROUND": true
+}
